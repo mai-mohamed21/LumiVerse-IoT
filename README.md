@@ -49,7 +49,7 @@ Through IoT, cloud services, and AI-powered emotion analysis, LumiVerse is not j
 ---
 
 ## 🚀 **Tech Stack**
-- **Hardware:** ESP32, Sensors, Servo Motor, LCD  
+- **Hardware:** ESP32, Sensors, Mini Player, LCD ,Keypad
 - **Communication:** MQTT (HiveMQ)  
 - **Backend:** Supabase (DB + Auth + API), Flask, FastAPI  
 - **Frontend:** Flutter Mobile App  
